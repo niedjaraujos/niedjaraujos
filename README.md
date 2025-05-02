@@ -7,11 +7,7 @@
 
 <h2>🤖Technologies and Tools</h2>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-050305?style=for-the-badge&logo=javascript&logoColor=1ba3be)
-![HTML5](https://img.shields.io/badge/HTML5-1f010f?style=for-the-badge&logo=html5&logoColor=b14075)
-![CSS3](https://img.shields.io/badge/CSS3-050305?style=for-the-badge&logo=css3&logoColor=1ba3be)
-![Git](https://img.shields.io/badge/GIT-1f010f?style=for-the-badge&logo=git&logoColor=b14075)
-![React](https://img.shields.io/badge/React-050305?style=for-the-badge&logo=react&logoColor=1ba3be)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,figma,sass,git,github&theme=dark" />
 
   <img 
     align="left" 
