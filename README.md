@@ -10,6 +10,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar.
   js,ts,react,nextjs,tailwind,nodejs,figma,sass,git,github&theme=dark" />
 
+  <p> CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar. </p>
+  
+
   <img 
     align="left" 
     alt="GitHub Stats" 
