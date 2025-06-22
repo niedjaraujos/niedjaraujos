@@ -5,12 +5,19 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b14075,&size=25&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Niedja+Araujo.+Developer+Front-End!;I'm+learning+JavaScript+and+more:%29)](https://git.io/typing-svg)
 
+<p>Estudante de Análise e Desenvolvimento de Sistemas em jornada para me tornar Engenheira de Software Full-Stack. Estou construindo uma base robusta em engenharia de software e banco de dados, com foco atual em desenvolvimento Front-End, para criar e gerenciar sistemas completos e de alto desempenho. </p>
+
 <h2>🤖Technologies and Tools</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar.
-  js,ts,react,nextjs,tailwind,nodejs,figma,sass,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,git,github&theme=dark" />
 
-  <p> CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar. </p>
+  <p> CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar.
+  JavaScript e TypeScript: Dando vida à web com conteúdo dinâmico e código aprimorado.
+  React e Next.js: Construindo interfaces de usuário e aplicações web otimizadas com foco em performance e escalabilidade.
+  Tailwind CSS: Estilizando projetos de forma ágil e customizável, utilizando classes utilitárias para criar designs modernos diretamente no HTML.
+  Sass: Potencializando o CSS com superpoderes, escrevendo folhas de estilo mais limpas e reutilizáveis através de variáveis, aninhamento e mixins.
+  Git e GitHub: Controlando versões do código e colaborando em projetos para garantir um histórico seguro e um fluxo de trabalho organizado.</p>
+  
   
 
   <img 
