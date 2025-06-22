@@ -11,12 +11,12 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,git,github&theme=dark" />
 
-  <p> CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar.
-  JavaScript e TypeScript: Dando vida à web com conteúdo dinâmico e código aprimorado.
-  React e Next.js: Construindo interfaces de usuário e aplicações web otimizadas com foco em performance e escalabilidade.
-  Tailwind CSS: Estilizando projetos de forma ágil e customizável, utilizando classes utilitárias para criar designs modernos diretamente no HTML.
-  Sass: Potencializando o CSS com superpoderes, escrevendo folhas de estilo mais limpas e reutilizáveis através de variáveis, aninhamento e mixins.
-  Git e GitHub: Controlando versões do código e colaborando em projetos para garantir um histórico seguro e um fluxo de trabalho organizado.</p>
+ <p> CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar. </p>
+ <p> JavaScript e TypeScript: Dando vida à web com conteúdo dinâmico e código aprimorado.</p>
+ <p> React e Next.js: Construindo interfaces de usuário e aplicações web otimizadas com foco em performance e escalabilidade.</p>
+ <p>Tailwind CSS: Estilizando projetos de forma ágil e customizável, utilizando classes utilitárias para criar designs modernos diretamente no HTML.</p>
+ <p> Sass: Potencializando o CSS com superpoderes, escrevendo folhas de estilo mais limpas e reutilizáveis através de variáveis, aninhamento e mixins.</p>
+ <p> Git e GitHub: Controlando versões do código e colaborando em projetos para garantir um histórico seguro e um fluxo de trabalho organizado.</p>
   
   
 
