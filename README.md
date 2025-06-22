@@ -16,10 +16,10 @@
 ## 🚀 Minha jornada de aprendizado:
 
   CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar.<br>
-  JavaScript e TypeScript: Dando vida à web com conteúdo dinâmico e código aprimorado.br>
+  JavaScript e TypeScript: Dando vida à web com conteúdo dinâmico e código aprimorado.<br>
   React e Next.js: Construindo interfaces de usuário e aplicações web otimizadas com foco em performance e escalabilidade.<br>
-  Tailwind CSS: Estilizando projetos de forma ágil e customizável, utilizando classes utilitárias para criar designs modernos diretamente no HTML.,br>
-  Sass: Potencializando o CSS com superpoderes, escrevendo folhas de estilo mais limpas e reutilizáveis através de variáveis, aninhamento e mixins.,br>
+  Tailwind CSS: Estilizando projetos de forma ágil e customizável, utilizando classes utilitárias para criar designs modernos diretamente no HTML.<br>
+  Sass: Potencializando o CSS com superpoderes, escrevendo folhas de estilo mais limpas e reutilizáveis através de variáveis, aninhamento e mixins.<br>
   Git e GitHub: Controlando versões do código e colaborando em projetos para garantir um histórico seguro e um fluxo de trabalho organizado.
   
   
