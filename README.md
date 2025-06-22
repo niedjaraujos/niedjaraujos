@@ -7,7 +7,8 @@
 
 <h2>🤖Technologies and Tools</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,figma,sass,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,CSS e HTML: Construindo sites responsivos, elegantes e fáceis de usar.
+  js,ts,react,nextjs,tailwind,nodejs,figma,sass,git,github&theme=dark" />
 
   <img 
     align="left" 
